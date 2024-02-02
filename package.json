@@ -1,6 +1,6 @@
 {
   "name": "mir4-bot",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "dependencies": {
     "ascii-table": "^0.0.9",
     "axios": "^1.6.7",
